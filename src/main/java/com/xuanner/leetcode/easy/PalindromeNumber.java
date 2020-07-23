@@ -14,7 +14,7 @@ package com.xuanner.leetcode.easy;
  * <p>
  * Example 3:
  * Input: 10
- * Output: false
+ * Output: falseffdfd
  * Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
  *
  * @author xuan
